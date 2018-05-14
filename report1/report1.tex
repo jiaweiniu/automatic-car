@@ -1,0 +1,56 @@
+\documentclass[a4paper,12pt]{jarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{comment}
+\usepackage{array}
+
+
+\setlength{\hoffset}{0cm}
+\setlength{\oddsidemargin}{-3mm}
+\setlength{\evensidemargin}{-3cm}
+\setlength{\marginparsep}{0cm}
+\setlength{\marginparwidth}{0cm}
+\setlength{\textheight}{24.7cm}
+\setlength{\textwidth}{17cm}
+\setlength{\topmargin}{-45pt}
+
+\renewcommand{\baselinestretch}{1.6}
+\renewcommand{\floatpagefraction}{1}
+\renewcommand{\topfraction}{1}
+\renewcommand{\bottomfraction}{1}
+\renewcommand{\textfraction}{0}
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+%\renewcommand{\figurename}{Fig.} %図をFig.にする
+
+
+%図のキャプションからコロン：を消す
+\makeatletter
+\long\def\@makecaption#1#2{% #1=図表番号、#2=キャプション本文
+\sbox\@tempboxa{#1. #2}
+\ifdim \wd\@tempboxa >\hsize
+#1 #2\par 
+\else
+\hb@xt@\hsize{\hfil\box\@tempboxa\hfil}
+\fi}
+\makeatother
+
+
+
+\begin{document}
+%
+\title{\vspace{-30mm}  第2回自動車工学特論 \ レポート \\ 機械知能工学専
+攻~~17344229~~牛~佳偉}
+\date{}
+%
+\maketitle
+%
+\vspace{-20mm}
+%\parindent = 0pt %すべての段落で字下げをしない
+%
+私は様々な形状，大きさの部品が把持可能なロボットハンド（ユニバーサルグ
+リッパ）の研究を行っている．このハンドを用いることで自動車工場の生産工程
+の高速化，自動化に活かせると思う．また，ロボットが出来るような簡単な作業
+を行っている人を人間の手でしか出来ないような作業に多く配置することができ，
+人間に多くコストをかけずとも製品の品質，生産効率の向上にも活かせると思う．
+\end{document}

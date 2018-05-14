@@ -1,0 +1,52 @@
+\documentclass[a4paper,12pt]{jarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{comment}
+\usepackage{array}
+
+
+\setlength{\hoffset}{0cm}
+\setlength{\oddsidemargin}{-3mm}
+\setlength{\evensidemargin}{-3cm}
+\setlength{\marginparsep}{0cm}
+\setlength{\marginparwidth}{0cm}
+\setlength{\textheight}{24.7cm}
+\setlength{\textwidth}{17cm}
+\setlength{\topmargin}{-45pt}
+
+\renewcommand{\baselinestretch}{1.6}
+\renewcommand{\floatpagefraction}{1}
+\renewcommand{\topfraction}{1}
+\renewcommand{\bottomfraction}{1}
+\renewcommand{\textfraction}{0}
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+%\renewcommand{\figurename}{Fig.} %図をFig.にする
+
+
+%図のキャプションからコロン：を消す
+\makeatletter
+\long\def\@makecaption#1#2{% #1=図表番号、#2=キャプション本文
+\sbox\@tempboxa{#1. #2}
+\ifdim \wd\@tempboxa >\hsize
+#1 #2\par 
+\else
+\hb@xt@\hsize{\hfil\box\@tempboxa\hfil}
+\fi}
+\makeatother
+
+
+
+\begin{document}
+%
+\title{\vspace{-30mm}  第2回自動車工学特論 \ レポート \\ 機械知能工学専
+攻~~17344229~~牛~佳偉}
+\date{}
+%
+\maketitle
+%
+\vspace{-20mm}
+%\parindent = 0pt %すべての段落で字下げをしない
+%
+地球温暖化は確実に進行している.大気中の二酸化炭素濃度は,21世紀に急激に増加すると予想されている.自動車のパワートレーンの課題として省エネルギー化への対応や二酸化炭素の削減,大気汚染防止が挙げられる.将来の自動車用のパワートレーンは省エネルギー,かつ二酸化炭素を放出せず環境に優しいものであるべきである.そのために,エンジンの効率を高めることが必要になる.従来のディーゼルエンジンのエネルギー効率である30$％$からできるだけアップさせる.また,石油などに代わる再生可能エネルギーの導入を促進していく.その他のエネルギー源として,天然ガスを使用することができると思う.また,現状では供給が不安定な電源である太陽光発電や風力発電等の再生可能エネルギーの導入においては,周波数調整力の不足,余剰電力の発生,系統電圧の上昇,送電容量の不足などの問題がある.これに対して,電力品質の定常的な維持が必要となっている.
+\end{document}

@@ -1,0 +1,2524 @@
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2017.10.12)  17 OCT 2017 22:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sample.tex
+(/usr/share/texmf/tex/context/sample/sample.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2011/06/27> patch level 0)
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+! Undefined control sequence.
+l.1 \starttext
+              
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 T
+     he sample directory contains a few files with quotes that can be used
+? 
+
+Overfull \hbox (37.22224pt too wide) in paragraph at lines 3--5
+[]\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (20.61115pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 sam-
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 ple
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 di-
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 rec-
+ []
+
+
+Overfull \hbox (18.08339pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 tory
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 tains
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (14.72224pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 few
+ []
+
+
+Overfull \hbox (16.72224pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 files
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 with
+ []
+
+
+Overfull \hbox (28.11116pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 quotes
+ []
+
+
+Overfull \hbox (18.33339pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 that
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 can
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (19.50003pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 used
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 while
+ []
+
+
+Overfull \hbox (19.50002pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 test-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (26.77782pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 styles. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 I
+     'll complete this file when I've reorganized my books and audio cd's.
+? 
+
+Overfull \hbox (31.94447pt too wide) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/10 I'll
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 com-
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 plete
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 this
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 file
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 when
+ []
+
+
+Overfull \hbox (15.83336pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 I've
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 or-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 ga-
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 nized
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 my
+ []
+
+
+Overfull \hbox (25.33342pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 books
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 dio
+ []
+
+
+Overfull \hbox (19.50003pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 cd's. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 I
+     f someone makes a nice bibtex file of these, the quotes can also be
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.8 I
+     f someone makes a nice bibtex file of these, the quotes can also be
+? 
+
+Overfull \hbox (26.66669pt too wide) in paragraph at lines 8--10
+[]\OT1/cmr/m/n/10 If
+ []
+
+
+Overfull \hbox (25.05559pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 some-
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 one
+ []
+
+
+Overfull \hbox (26.72227pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 makes
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 nice
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 bib-
+ []
+
+
+Overfull \hbox (13.61115pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 tex
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 file
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (25.05559pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 these,
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (28.11116pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 quotes
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 can
+ []
+
+
+Overfull \hbox (16.72226pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 also
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 be
+ []
+
+
+Overfull \hbox (19.50003pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 used
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (19.50002pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 test-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 bib-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 li-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 o-
+ []
+
+
+Overfull \hbox (32.25008pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 graphic
+ []
+
+
+Overfull \hbox (14.75002pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 ref-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 er-
+ []
+
+
+Overfull \hbox (22.83334pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 ences
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (10.55556pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 ci-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (23.9445pt too wide) in paragraph at lines 8--10
+\OT1/cmr/m/n/10 tions. 
+ []
+
+! Undefined control sequence.
+l.11 \starttabulate
+                   [|l|l|p|]
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.11 \starttabulate[
+                    |l|l|p|]
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \starttabulate[
+                    |l|l|p|]
+? quit()
+OK, entering \batchmode...
+! Undefined control sequence.
+l.12 \NC
+         \bf file           \NC \bf author            \NC \bf source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \NC \bf
+             file           \NC \bf author            \NC \bf source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \NC \bf file           \NC
+                                \bf author            \NC \bf source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \NC \bf file           \NC \bf
+                                    author            \NC \bf source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 ...le           \NC \bf author            \NC
+                                                   \bf source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 ...         \NC \bf author            \NC \bf
+                                                   source \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 ...C \bf author            \NC \bf source \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 ...f author            \NC \bf source \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \HL
+        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 \NC
+         knuth.tex          \NC Donald  E. Knuth      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 \NC knuth.tex          \NC
+                                Donald  E. Knuth      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...tex          \NC Donald  E. Knuth      \NC
+                                                   \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...         \NC Donald  E. Knuth      \NC \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...     \NC Donald  E. Knuth      \NC \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 \NC
+         tufte.tex          \NC Edward  R. Tufte      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 \NC tufte.tex          \NC
+                                Edward  R. Tufte      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 ...tex          \NC Edward  R. Tufte      \NC
+                                                   \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 ...         \NC Edward  R. Tufte      \NC \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 ...     \NC Edward  R. Tufte      \NC \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \NC
+         reich.tex          \NC Steve      Reich      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \NC reich.tex          \NC
+                                Steve      Reich      \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 ...tex          \NC Steve      Reich      \NC
+                                                   \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 ...         \NC Steve      Reich      \NC \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 ...     \NC Steve      Reich      \NC \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 \NC
+         materie.tex        \NC Louis      Andriessen \NC De Materie \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 \NC materie.tex        \NC
+                                Louis      Andriessen \NC De Materie \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 ...e.tex        \NC Louis      Andriessen \NC
+                                                   De Materie \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 ...C Louis      Andriessen \NC De Materie \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 ...uis      Andriessen \NC De Materie \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 \NC
+         douglas.tex        \NC Douglas R. Hofstadter \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 \NC douglas.tex        \NC
+                                Douglas R. Hofstadter \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...s.tex        \NC Douglas R. Hofstadter \NC
+                                                   \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...x        \NC Douglas R. Hofstadter \NC \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...     \NC Douglas R. Hofstadter \NC \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 \NC
+         dawkins.tex        \NC            Dawkins    \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 \NC dawkins.tex        \NC
+                                           Dawkins    \NC \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...s.tex        \NC            Dawkins    \NC
+                                                   \NC \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...x        \NC            Dawkins    \NC \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...     \NC            Dawkins    \NC \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 \NC
+         ward.tex           \NC Peter   D. Ward       \NC The Life and Death...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 \NC ward.tex           \NC
+                                Peter   D. Ward       \NC The Life and Death...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ...ex           \NC Peter   D. Ward       \NC
+                                                   The Life and Death of Pla...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ...\NC The Life and Death of Planet Earth \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ...The Life and Death of Planet Earth \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 \NC
+         zapf.tex           \NC Hermann    Zapf       \NC About micro-typogr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 \NC zapf.tex           \NC
+                                Hermann    Zapf       \NC About micro-typogr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...ex           \NC Hermann    Zapf       \NC
+                                                   About micro-typography an...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (76.66678pt too wide) in paragraph at lines 11--22
+[]\OT1/cmr/m/n/10 [|l|l|p|]
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 file
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (18.36116pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 thor
+ []
+
+
+Overfull \hbox (27.30559pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 source
+ []
+
+
+Overfull \hbox (41.94456pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 knuth.tex
+ []
+
+
+Overfull \hbox (21.52782pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Don-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ald
+ []
+
+
+Overfull \hbox (9.58336pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 E.
+ []
+
+
+Overfull \hbox (28.05563pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Knuth
+ []
+
+
+Overfull \hbox (37.22232pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 tufte.tex
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Ed-
+ []
+
+
+Overfull \hbox (21.4167pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ward
+ []
+
+
+Overfull \hbox (10.1389pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 R.
+ []
+
+
+Overfull \hbox (23.33337pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Tufte
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (28.88895pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ich.tex
+ []
+
+
+Overfull \hbox (23.33337pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Steve
+ []
+
+
+Overfull \hbox (15.13889pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Re-
+ []
+
+
+Overfull \hbox (12.50002pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ich
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (35.86118pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 terie.tex
+ []
+
+
+Overfull \hbox (23.52783pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Louis
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 An-
+ []
+
+
+Overfull \hbox (34.58337pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 driessen
+ []
+
+
+Overfull \hbox (12.08334pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 De
+ []
+
+
+Overfull \hbox (17.50003pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Ma-
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 terie
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 dou-
+ []
+
+
+Overfull \hbox (33.11119pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 glas.tex
+ []
+
+
+Overfull \hbox (21.52782pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Dou-
+ []
+
+
+Overfull \hbox (16.72226pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 glas
+ []
+
+
+Overfull \hbox (10.1389pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 R.
+ []
+
+
+Overfull \hbox (18.88893pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Hof-
+ []
+
+
+Overfull \hbox (7.27777pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 s-
+ []
+
+
+Overfull \hbox (26.6945pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 tadter
+ []
+
+
+Overfull \hbox (51.44456pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 dawkins.tex
+ []
+
+
+Overfull \hbox (37.13896pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Dawkins
+ []
+
+
+Overfull \hbox (37.80563pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ward.tex
+ []
+
+
+Overfull \hbox (14.30556pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Pe-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 ter
+ []
+
+
+Overfull \hbox (10.41669pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 D.
+ []
+
+
+Overfull \hbox (23.91672pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Ward
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (16.52782pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Life
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (26.52783pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Death
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (28.47229pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Planet
+ []
+
+
+Overfull \hbox (25.16673pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Earth
+ []
+
+
+Overfull \hbox (34.44453pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 zapf.tex
+ []
+
+
+Overfull \hbox (19.19446pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Her-
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 mann
+ []
+
+
+Overfull \hbox (19.72227pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 Zapf
+ []
+
+
+Overfull \hbox (27.77786pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 About
+ []
+
+
+Overfull \hbox (27.8056pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 micro-
+ []
+
+
+Overfull \hbox (49.75015pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 typography
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 hz-
+ []
+
+
+Overfull \hbox (39.5001pt too wide) in paragraph at lines 11--22
+\OT1/cmr/m/n/10 program, 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ro-typography and the hz-program, \endgraf
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ [1]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...                                         E
+                                                  lectronic Publishing, vol....
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (64.05563pt too wide) in paragraph at lines 23--23
+[]\OT1/cmr/m/n/10 Electronic
+ []
+
+
+Overfull \hbox (21.25005pt too wide) in paragraph at lines 23--23
+\OT1/cmr/m/n/10 Pub-
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 23--23
+\OT1/cmr/m/n/10 lish-
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 23--23
+\OT1/cmr/m/n/10 ing,
+ []
+
+
+Overfull \hbox (15.5556pt too wide) in paragraph at lines 23--23
+\OT1/cmr/m/n/10 vol.
+ []
+
+
+Overfull \hbox (20.55562pt too wide) in paragraph at lines 23--23
+\OT1/cmr/m/n/10 6(3), 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...                                         2
+                                                  83-288 (September 1993) \N...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.24 ...              283-288 (September 1993) \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 ...          283-288 (September 1993) \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.25 \NC
+         bryson.tex         \NC Bill       Bryson     \NC A Short History of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.25 \NC bryson.tex         \NC
+                                Bill       Bryson     \NC A Short History of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.25 ....tex         \NC Bill       Bryson     \NC
+                                                   A Short History of Nearly...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (38.33337pt too wide) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/10 283-
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 288
+ []
+
+
+Overfull \hbox (39.44452pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 (Septem-
+ []
+
+
+Overfull \hbox (14.19447pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 ber
+ []
+
+
+Overfull \hbox (23.88896pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 1993)
+ []
+
+
+Overfull \hbox (45.639pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 bryson.tex
+ []
+
+
+Overfull \hbox (15.41672pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Bill
+ []
+
+
+Overfull \hbox (30.77786pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Bryson
+ []
+
+
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 A
+ []
+
+
+Overfull \hbox (23.91673pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Short
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 His-
+ []
+
+
+Overfull \hbox (18.08339pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 tory
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (28.91673pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Nearly
+ []
+
+
+Overfull \hbox (15.4167pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Ev-
+ []
+
+
+Overfull \hbox (16.97224pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 ery-
+ []
+
+
+Overfull \hbox (25.55563pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 thing, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...                                         R
+                                                  andom House, 2003 \NC \NR
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.26 ...                    Random House, 2003 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 ...                Random House, 2003 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 \NC
+         davis.tex          \NC Kenneth C. Davis      \NC Don't Know Much Ab...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 \NC davis.tex          \NC
+                                Kenneth C. Davis      \NC Don't Know Much Ab...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 ...tex          \NC Kenneth C. Davis      \NC
+                                                   Don't Know Much About His...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (56.80565pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/10 Random
+ []
+
+
+Overfull \hbox (29.22227pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 House,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 2003
+ []
+
+
+Overfull \hbox (38.66676pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 davis.tex
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Ken-
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 neth
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 C.
+ []
+
+
+Overfull \hbox (24.36116pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Davis
+ []
+
+
+Overfull \hbox (24.86118pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Don't
+ []
+
+
+Overfull \hbox (25.27783pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Know
+ []
+
+
+Overfull \hbox (24.44449pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Much
+ []
+
+
+Overfull \hbox (27.77786pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 About
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 His-
+ []
+
+
+Overfull \hbox (20.02783pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 tory, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...                                         E
+                                                  verything You Need to Know...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (68.22235pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/10 Everything
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 You
+ []
+
+
+Overfull \hbox (21.94447pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Need
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (25.27783pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Know
+ []
+
+
+Overfull \hbox (27.77786pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 About
+ []
+
+
+Overfull \hbox (27.52782pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Amer-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 can
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 His-
+ []
+
+
+Overfull \hbox (18.08339pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 tory
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 but
+ []
+
+
+Overfull \hbox (25.30559pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Never
+ []
+
+
+Overfull \hbox (37.94452pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10 Learned, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...                                         H
+                                                  arperCollins, 2003 \NC \NR
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.30 ...                   HarperCollins, 2003 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 ...               HarperCollins, 2003 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 \NC
+         thuan.tex          \NC Trinh Xuan Thuan      \NC Chaos and Harmony,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 \NC thuan.tex          \NC
+                                Trinh Xuan Thuan      \NC Chaos and Harmony,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 ...tex          \NC Trinh Xuan Thuan      \NC
+                                                   Chaos and Harmony, Perspe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (83.44458pt too wide) in paragraph at lines 30--32
+[]\OT1/cmr/m/n/10 HarperCollins,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 2003
+ []
+
+
+Overfull \hbox (41.66678pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 thuan.tex
+ []
+
+
+Overfull \hbox (24.19449pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Trinh
+ []
+
+
+Overfull \hbox (23.61118pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Xuan
+ []
+
+
+Overfull \hbox (28.61118pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Thuan
+ []
+
+
+Overfull \hbox (26.72227pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Chaos
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (19.75003pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Har-
+ []
+
+
+Overfull \hbox (25.8334pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 mony,
+ []
+
+
+Overfull \hbox (18.22223pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Per-
+ []
+
+
+Overfull \hbox (22.00002pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 spec-
+ []
+
+
+Overfull \hbox (20.05559pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 tives
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Sci-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 tific
+ []
+
+
+Overfull \hbox (20.41669pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Rev-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 o-
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 lu-
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 tions
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (27.50002pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Twen-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 eth
+ []
+
+
+Overfull \hbox (20.55557pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 Cen-
+ []
+
+
+Overfull \hbox (20.58339pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/n/10 tury, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...                                         O
+                                                  xford University Press, 20...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.33 ...         Oxford University Press, 2001 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 ...     Oxford University Press, 2001 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 \NC
+         hawking.tex        \NC Steve W. Hawking      \NC The Universe in a ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 \NC hawking.tex        \NC
+                                Steve W. Hawking      \NC The Universe in a ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 ...g.tex        \NC Steve W. Hawking      \NC
+                                                   The Universe in a Nutshel...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 ...                    Random House, 2001 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 ...                Random House, 2001 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 \NC
+         linden.tex         \NC Eugene Linden         \NC The Winds of Chang...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 \NC linden.tex         \NC
+                                Eugene Linden         \NC The Winds of Chang...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 ....tex         \NC Eugene Linden         \NC
+                                                   The Winds of Change, Clim...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.58344pt too wide) in paragraph at lines 33--37
+[]\OT1/cmr/m/n/10 Oxford
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (25.83336pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Press,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 2001
+ []
+
+
+Overfull \hbox (26.11116pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 hawk-
+ []
+
+
+Overfull \hbox (29.7223pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 ing.tex
+ []
+
+
+Overfull \hbox (23.33337pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Steve
+ []
+
+
+Overfull \hbox (13.05559pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 W.
+ []
+
+
+Overfull \hbox (28.0556pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Hawk-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (21.75002pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 verse
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (20.27782pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Nut-
+ []
+
+
+Overfull \hbox (22.27782pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 shell,
+ []
+
+
+Overfull \hbox (20.97227pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Ban-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 tam
+ []
+
+
+Overfull \hbox (26.58342pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Books
+ []
+
+
+Overfull \hbox (21.25003pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Ran-
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 dom
+ []
+
+
+Overfull \hbox (29.22227pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 House,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 2001
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 lin-
+ []
+
+
+Overfull \hbox (31.94452pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 den.tex
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Eu-
+ []
+
+
+Overfull \hbox (19.44447pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 gene
+ []
+
+
+Overfull \hbox (17.9167pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Lin-
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 den
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (28.11118pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Winds
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (35.55563pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Change,
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Cli-
+ []
+
+
+Overfull \hbox (24.4445pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 mate,
+ []
+
+
+Overfull \hbox (39.47229pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Weather,
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (15.41667pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 De-
+ []
+
+
+Overfull \hbox (25.08336pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 struc-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 Civ-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 liza-
+ []
+
+
+Overfull \hbox (23.9445pt too wide) in paragraph at lines 33--37
+\OT1/cmr/m/n/10 tions, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...                                         S
+                                                  imon \& Schuster, 2006, p....
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.38 ...        Simon \& Schuster, 2006, p.106 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 ...    Simon \& Schuster, 2006, p.106 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 \NC
+         weisman.tex        \NC Alan Weisman          \NC The World Without ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 \NC weisman.tex        \NC
+                                Alan Weisman          \NC The World Without ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 ...n.tex        \NC Alan Weisman          \NC
+                                                   The World Without Us, \en...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (47.2223pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10 Simon
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 &
+ []
+
+
+Overfull \hbox (27.83336pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Schus-
+ []
+
+
+Overfull \hbox (15.0278pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 ter,
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 2006,
+ []
+
+
+Overfull \hbox (23.3334pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 p.106
+ []
+
+
+Overfull \hbox (21.44444pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 weis-
+ []
+
+
+Overfull \hbox (35.27788pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 man.tex
+ []
+
+
+Overfull \hbox (20.83339pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Alan
+ []
+
+
+Overfull \hbox (23.94446pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Weis-
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 man
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (26.6945pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 World
+ []
+
+
+Overfull \hbox (25.83339pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 With-
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 out
+ []
+
+
+Overfull \hbox (14.22224pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Us, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...                                         T
+                                                  homas Dunne Books, 2007, p...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.40 ...       Thomas Dunne Books, 2007, p.160 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.40 ...   Thomas Dunne Books, 2007, p.160 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \NC
+         montgomery.tex     \NC David R Montgomery    \NC Dirt, The Erosion ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \NC montgomery.tex     \NC
+                                David R Montgomery    \NC Dirt, The Erosion ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...mery.tex     \NC David R Montgomery    \NC
+                                                   Dirt, The Erosion of Civi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (55.05563pt too wide) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/10 Thomas
+ []
+
+
+Overfull \hbox (28.75006pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Dunne
+ []
+
+
+Overfull \hbox (29.3612pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Books,
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 2007,
+ []
+
+
+Overfull \hbox (23.3334pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 p.160
+ []
+
+
+Overfull \hbox (25.83339pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 mont-
+ []
+
+
+Overfull \hbox (47.5279pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 gomery.tex
+ []
+
+
+Overfull \hbox (25.97229pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 David
+ []
+
+
+Overfull \hbox (7.36111pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 R
+ []
+
+
+Overfull \hbox (26.66672pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Mont-
+ []
+
+
+Overfull \hbox (31.9723pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 gomery
+ []
+
+
+Overfull \hbox (21.00005pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Dirt,
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Ero-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 sion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Civ-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 liza-
+ []
+
+
+Overfull \hbox (23.9445pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 tions, 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...                                         U
+                                                  niversity of California Pr...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.42 ...rsity of California Press, 2007, p.199 \NC
+                                                   \NR
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 ...y of California Press, 2007, p.199 \NC \NR
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \NC
+         carrol.tex         \NC Sean B. Carrol        \NC The Making of the ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \NC carrol.tex         \NC
+                                Sean B. Carrol        \NC The Making of the ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 ....tex         \NC Sean B. Carrol        \NC
+                                                   The Making of the Fittest...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (64.80565pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/10 University
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 Cal-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (15.30559pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 for-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 nia
+ []
+
+
+Overfull \hbox (25.83336pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 Press,
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 2007,
+ []
+
+
+Overfull \hbox (23.3334pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 p.199
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 car-
+ []
+
+
+Overfull \hbox (28.0834pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 rol.tex
+ []
+
+
+Overfull \hbox (20.5556pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 Sean
+ []
+
+
+Overfull \hbox (9.86115pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 B.
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 Car-
+ []
+
+
+Overfull \hbox (11.69447pt too wide) in paragr

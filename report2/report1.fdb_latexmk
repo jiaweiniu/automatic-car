@@ -1,0 +1,29 @@
+# Fdb version 3
+["dvipdf"] 1510204388 "report1.dvi" "report1.pdf" "report1" 1510204388
+  "report1.dvi" 1510204388 2164 f49ed48267ceab02d8d488d689d2b9b5 "latex"
+  (generated)
+  "report1.pdf"
+["latex"] 1510204388 "report1.tex" "report1.dvi" "report1" 1510204388
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1362954379 2412 2d98314dc5be38f455f8890deeb2d091 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty" 1362954379 4357 ad30ad08920902fc9b38caf35a3b0496 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1362954379 79178 b2e326c351e876df0e5e23df2e02441b ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty" 1362954379 4082 502152465aedb8f6a3c4b0b7c0fa8ae5 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty" 1362954379 2637 846ebe982d3549c7ede7ce135456f54a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty" 1390604416 9666 b0ada4704d4b3d0048a56c49bc982988 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def" 1390520954 7421 586f9078b5fb689928bee1d71c4ac2ad ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty" 1254151804 14183 42a8fc761b806986eef292369afc2988 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty" 1156702488 7882 3bd78469d444e8d494e27cfd7ca92719 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1156702488 2266 7054435e4584a41cf53b0a7ca624d0cb ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty" 1156702488 3153 c50e6bd54d2dd3933fc52bcf369bec4a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg" 1278958963 3563 d35e897cae3b8c6848f6677b73370b54 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg" 1167176009 2062 a0e7d66e09e508f51289a656aec06ed2 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty" 1167176009 15188 91281c7ddbccfa54a8e0c3b56ab5aa72 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty" 1254151720 13146 3e38b06d6e7ca62ce1bdb63b0d6148a5 ""
+  "/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls" 1274206740 25507 0e6187042be739768097a38c29341b37 ""
+  "/usr/share/texlive/texmf-dist/tex/platex/base/jsize12.clo" 1274206740 9598 fa730555eee77484e4f33073895956b9 ""
+  "report1.aux" 1510204388 8 a94a2480d3289e625eea47cd1b285758 ""
+  "report1.tex" 1510204384 2364 7a84135a20f32f4b6345f92e00935742 ""
+  (generated)
+  "report1.dvi"
+  "report1.aux"
+  "report1.log"
